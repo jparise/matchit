@@ -1,4 +1,4 @@
-*matchit.txt* Extended "%" matching  Last change: 2025 Dec 23
+*matchit.txt* Extended "%" matching  Last change: 2026 Jan 06
 
 		VIM REFERENCE MANUAL    by Benji Fisher et al
 
